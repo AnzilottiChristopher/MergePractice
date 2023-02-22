@@ -4,5 +4,6 @@ public class Merge
     {
         System.out.println("Hello, World!");
         System.out.println("Hello branch!");
+        System.out.println("Programming!");
     }
 }
